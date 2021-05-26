@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielsogl/cordova-plugin-video-capture-plus.git"
+    "url": "git+https://github.com/bbe-io/cordova-plugin-video-capture-plus.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -24,12 +24,12 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Daniel Sogl",
+  "author": "BBE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielsogl/cordova-plugin-video-capture-plus/issues"
+    "url": "https://github.com/bbe-io/cordova-plugin-video-capture-plus/issues"
   },
-  "homepage": "https://github.com/danielsogl/cordova-plugin-video-capture-plus#readme",
+  "homepage": "https://github.com/bbe-io/cordova-plugin-video-capture-plus#readme",
   "main": "VideoCapturePlus.js",
   "scripts": {
     "test": "exit 0"
